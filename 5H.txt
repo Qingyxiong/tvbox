@@ -1,0 +1,259 @@
+{
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+   {
+  "key": "iqiyizy",
+  "name": "爱奇艺",
+  "type": 1,
+  "api": "https://iqiyizyapi.com/api.php/provide/vod",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+    }, 
+    {
+      "key": "百度资源",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+  "key": "金鹰资源",
+  "name": "金鹰资源",
+  "type": 1,
+  "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+   }, 
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    }, 
+    {
+      "key": "小米瓜子",
+      "name": "瓜子┃超清",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 1,
+      "jar": "https://13291.kstore.space/mi0207.jar"
+    },
+        {
+      "key": "番号资源",
+      "name": "番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+    "key": "xiaojizy",
+    "name": "小鸡资源",
+    "type": 1, 
+    "api": "https://api.xiaojizy.live/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0
+   }, 
+       {
+      "key": "Xiangjiao",
+      "name": "🍌香蕉资源┃采集",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+  "key": "夕宝资源网",
+  "name": "夕宝资源网",
+  "type": 1,
+  "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/json/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+   }, 
+   {
+  "key": "DD资源",
+  "name": "DD资源",
+  "type": 1,
+  "api": "https://api.ddapi.cc/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+   }, 
+    {
+      "key": "AIvin",
+      "name": "AIvin",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "91jp",
+      "name": "91精品资源",
+      "type": 1,
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "55资源",
+      "name": "55资源",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "A机资源",
+      "name": "A机资源",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bp资源",
+      "name": "bp儿资源",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fj资源",
+      "name": "fj资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "大地资源",
+      "name": "大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "*HSCK资源",
+      "name": "*HSCK资源",
+      "type": 1,
+      "api": "https://hsckzy001.com/api.php/provide/vod/at/json",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    }
+      ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "小鱼云线路",
+      "type": "1",
+      "url": "https://jx.84jia.com/api/?key=OfhdWjj1xfEFfWb9qc&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "观潮解析",
+      "type": 1,
+      "url": "https://api.oxli.top/api/?key=rz9KZqILmWDcSZnVKd&url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "芒果",
+          "芒果视频",
+          "imgo",
+          "紫色妹妹"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "超清",
+      "type": 1,
+      "url": "http://124.220.174.153:11225/api/?key=ouo5RgeObrdpwz9gWV&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }
+  ],
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
+  "lives": [
+    {
+      "name": "范明明",
+      "type": 0,
+      "url": "http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/zhibo.txt",
+      "playerType": 1
+    }
+  ]
+}
